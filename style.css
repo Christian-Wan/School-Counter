@@ -11,7 +11,7 @@ body {
   .container{
     background: white;
     opacity: 0.90;
-    max-width: 80%; 
+    max-width: 50%; 
     margin: auto; /* this helps centering */
     border: 3px solid black;
     border-radius: 10px;
@@ -41,10 +41,10 @@ body {
   }
   
   #increment-btn {
-   background: #2C2891;;
+   background: #eb0533;;
   }
   
   #save-btn {
-    background: #660063;
+    background: #0759e8;
   }
   
